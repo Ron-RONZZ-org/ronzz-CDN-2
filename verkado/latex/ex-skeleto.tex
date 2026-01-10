@@ -1,0 +1,36 @@
+  \documentclass[12pt]{report}
+  \usepackage[utf8]{inputenc}
+
+  \begin{document}
+
+  % --- Pretext (roman numerals) ---
+  \pagenumbering{roman}
+  \chapter*{Acknowledgements}
+  \chapter*{Abstract}
+  \tableofcontents
+
+  % --- Main text (arabic numerals) ---
+  \clearpage
+  \pagenumbering{arabic}
+    
+  \chapter{Introduction}
+  \chapter{Methods}
+  \chapter{Results}
+  \chapter{Discussion}
+
+  % --- Bibliography (Roman numerals) ---
+  \clearpage
+  \pagenumbering{Roman}
+
+  \chapter*{Bibliography}
+  % \bibliographystyle{plain}
+  % \bibliography{refs}
+
+  % --- Annex (letters) ---
+  \clearpage
+  \pagenumbering{Alph}
+
+  \chapter*{Annex A}
+  \chapter*{Annex B}
+
+  \end{document}
