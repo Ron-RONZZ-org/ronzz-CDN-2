@@ -1,0 +1,471 @@
+nohup: ignoring input
+/home/ubuntu/.local/share/pipx/venvs/openai-whisper/lib/python3.12/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:08.000]  Vous écoutez Arte Radio, en partenariat avec l'INA.
+[00:10.000 --> 00:17.000]  Novembre 1945. Un homme descend de voiture rue de Grenelle, dans un quartier chic de Paris.
+[00:17.000 --> 00:24.000]  Le 7e arrondissement, c'est là que se trouvent les couvents, les écoles privées prestigieuses et les ministères.
+[00:24.000 --> 00:29.000]  Il s'appelle Ambroise Croizat, et il vient d'être nommé ministre du Travail.
+[00:31.000 --> 00:39.000]  Il entre dans son nouveau bureau, il voit le beau parquet, les moulures dorées, le grand miroir au-dessus de la cheminée.
+[00:39.000 --> 00:43.000]  C'est un monde à des années-lumière de celui où il a grandi.
+[00:43.000 --> 00:51.000]  Fils d'ouvrier, Ambroise Croizat a commencé à travailler à 13 ans. Il est devenu syndicaliste, puis député communiste.
+[00:51.000 --> 00:56.000]  Et il s'apprête à se lancer corps et âme dans une réforme qui a changé nos vies.
+[00:56.000 --> 00:59.000]  La sécurité sociale.
+[00:59.000 --> 01:03.000]  Aujourd'hui, la sécurité sociale, ça vous fait peut-être pas rêver.
+[01:03.000 --> 01:08.000]  Ça évoque la carte vitale et des trucs un peu relous comme les courriers Amélie.
+[01:08.000 --> 01:15.000]  Ou alors le fameux trou de la Sécu, ce gouffre budgétaire qui menacerait d'engloutir l'économie du pays.
+[01:15.000 --> 01:19.000]  Le gouvernement accélère l'allure pour limiter le trou de la Sécu.
+[01:20.000 --> 01:23.000]  4 milliards et demi de francs. Plus de 2 milliards.
+[01:23.000 --> 01:25.000]  Il est 50 milliards d'euros, 50 milliards.
+[01:25.000 --> 01:35.000]  Pourtant, quand elle naît en 1946, la sécurité sociale est révolutionnaire. Et quelque part, elle l'est toujours.
+[01:35.000 --> 01:41.000]  La sécurité sociale, c'est ce qui permet de ne pas paniquer quand on se casse une jambe et qu'on ne peut plus aller bosser.
+[01:41.000 --> 01:44.000]  Ou d'aller chez le dentiste sans vider son compte en banque.
+[01:44.000 --> 01:50.000]  C'est un filet de sécurité qui repose sur la solidarité de toute la société.
+[01:50.000 --> 01:54.000]  Quand tu es malade, c'est moi qui paie tes indemnités. Et réciproquement.
+[01:54.000 --> 02:01.000]  En vrai, quand on sort sa carte vitale, on sort un petit bout de communisme de son portefeuille.
+[02:01.000 --> 02:04.000]  Ça les rend tout de suite plus sexiles les courriers Amélie, vous trouvez pas ?
+[02:07.000 --> 02:12.000]  Je veux vous raconter l'histoire de la Sécu, qui a été créée grâce à une union politique très rare.
+[02:12.000 --> 02:17.000]  Une union liée à la guerre et à la force du mouvement ouvrier et des syndicats.
+[02:17.000 --> 02:23.000]  Et ce qui me frappe, c'est que cette réforme qu'on trouverait aujourd'hui absurdement gauchiste,
+[02:23.000 --> 02:26.000]  elle a été mise en place dans un pays ruiné.
+[02:26.000 --> 02:31.000]  Alors, comment va s'y prendre Ambroise Croizat, le nouveau ministre dans son bureau là ?
+[02:31.000 --> 02:37.000]  Et les autres avec lui ? Parce que comme toujours, vous allez voir, quand on gagne, ça n'est jamais tout seul.
+[02:38.000 --> 02:41.000]  Et parfois, on gagne.
+[02:41.000 --> 02:45.000]  Des récits de lutte victorieuses, d'hier et d'aujourd'hui,
+[02:45.000 --> 02:48.000]  qui nous apprennent à résister.
+[02:49.000 --> 02:55.000]  Un podcast de Victoire Tueillon, avec Bertrand Guillot et Claire Richard.
+[02:56.000 --> 02:59.000]  Réalisé par Annabel Brouard.
+[03:00.000 --> 03:03.000]  Tous les mois sur Arte Radio.
+[03:04.000 --> 03:09.000]  Et aujourd'hui, comment inventer le meilleur système de santé au monde ?
+[03:14.000 --> 03:17.000]  Nous sommes en août 1944.
+[03:17.000 --> 03:19.000]  La guerre est finie.
+[03:19.000 --> 03:22.000]  Maintenant, il faut commencer à reconstruire.
+[03:22.000 --> 03:27.000]  Pour la première fois, le Conseil National de la Résistance parle au peuple de Paris.
+[03:27.000 --> 03:32.000]  Pendant la guerre, les mouvements de résistance n'ont pas fait que se battre contre l'occupant.
+[03:32.000 --> 03:36.000]  Ils ont pensé à l'avenir, au monde qu'ils désiraient construire après.
+[03:36.000 --> 03:40.000]  Ils ont donc imaginé des mesures et écrit des programmes.
+[03:40.000 --> 03:44.000]  Le plus connu, c'est celui du Conseil National de la Résistance,
+[03:44.000 --> 03:47.000]  qui fédère tout le monde.
+[03:47.000 --> 03:50.000]  Et c'est là qu'il s'agit.
+[03:50.000 --> 03:53.000]  Et c'est là qu'il s'agit.
+[03:53.000 --> 03:56.000]  C'est celui du Conseil National de la Résistance,
+[03:56.000 --> 04:00.000]  qui fédère tous les mouvements de la résistance intérieure en France.
+[04:00.000 --> 04:03.000]  Ce programme est très court, une dizaine de pages,
+[04:03.000 --> 04:07.000]  et il porte un joli nom, Les Jours Heureux.
+[04:08.000 --> 04:11.000]  On y trouve l'idée d'une sécurité sociale.
+[04:11.000 --> 04:15.000]  Nous étions en guerre, en effet, et ce bien dans la clandestinité,
+[04:15.000 --> 04:18.000]  dans la résistance, dans la solidarité de la résistance,
+[04:18.000 --> 04:22.000]  qu'il faut chercher l'origine de l'ensemble de la législation sociale
+[04:22.000 --> 04:26.000]  que nous avons faite en 1945.
+[04:26.000 --> 04:29.000]  Dans cet ensemble, c'est la sécurité sociale qui était la pièce maîtresse,
+[04:29.000 --> 04:33.000]  gérée à la fois par les intéressés, par les représentants d'État.
+[04:33.000 --> 04:37.000]  Ce que je trouve remarquable là, c'est que c'est l'expérience vécue
+[04:37.000 --> 04:42.000]  de la solidarité pendant la guerre qui donne naissance à des lois sociales.
+[04:42.000 --> 04:46.000]  Dans les mouvements de résistance, la solidarité et l'égalité,
+[04:46.000 --> 04:49.000]  ce n'est pas des concepts, c'est très concret.
+[04:49.000 --> 04:52.000]  Il y a des ouvriers, des ouvrières et des bourgeois, des bourgeoises
+[04:52.000 --> 04:54.000]  qui travaillent ensemble.
+[04:54.000 --> 04:57.000]  Des gens de gauche et des gens de droite, de tous les courants politiques.
+[05:13.000 --> 05:16.000]  Sans la solidarité, les réseaux s'effondrent,
+[05:16.000 --> 05:21.000]  comme le raconte ce poème d'Aragon, la Rose et le Réseda, écrit en 44.
+[05:21.000 --> 05:25.000]  À la sortie de la guerre, la solidarité ce n'est pas un slogan politique,
+[05:25.000 --> 05:28.000]  c'est vital, et tout le monde le sait.
+[05:46.000 --> 05:49.000]  L'autre tombe qui mourra.
+[05:59.000 --> 06:04.000]  Au total, la Seconde Guerre mondiale a fait 60 millions de morts.
+[06:04.000 --> 06:08.000]  En France, plus d'un demi-million, surtout des civils.
+[06:10.000 --> 06:14.000]  En août 1944, le général de Gaulle, coiffé de son képi,
+[06:14.000 --> 06:17.000]  prend la tête du gouvernement provisoire.
+[06:17.000 --> 06:20.000]  Il faut rétablir la démocratie et lancer la reconstruction.
+[06:36.000 --> 06:38.000]  Il y a de l'euphorie dans l'air.
+[06:38.000 --> 06:42.000]  Avec les soldats étasuniens, les Françaises et les Français découvrent
+[06:42.000 --> 06:45.000]  le chewing-gum, le chocolat, le swing.
+[06:45.000 --> 06:49.000]  Et pour certaines, comme le raconte la féministe Benoît Groulte,
+[06:49.000 --> 06:52.000]  les joies des coups d'un soir avec de beaux américains.
+[06:56.000 --> 06:59.000]  On faisait l'amour avec la liberté retrouvée,
+[06:59.000 --> 07:02.000]  enfin les instruments de cette liberté.
+[07:02.000 --> 07:06.000]  Dans les bras de ces hommes, on célébrait la fin du nazisme,
+[07:06.000 --> 07:09.000]  le territoire récupéré, l'espoir de la paix universelle.
+[07:09.000 --> 07:12.000]  Ça donnait une dimension historique à nos débordements.
+[07:18.000 --> 07:22.000]  L'heure est au travail en commun. On se retrousse les manches.
+[07:22.000 --> 07:27.000]  Des milliers de Parisiens descendent à Marseille pour aider à reconstruire le port.
+[07:27.000 --> 07:29.000]  Car le pays est en miettes.
+[07:29.000 --> 07:32.000]  Des villes entières ont été détruites par les bombes.
+[07:32.000 --> 07:37.000]  Aux Havres, à Saint-Lô, à Brest, les enfants jouent dans les décombres.
+[07:38.000 --> 07:41.000]  La moitié de la population vit dans des logements insalubres.
+[07:41.000 --> 07:44.000]  Un million de personnes sont sans abri.
+[07:44.000 --> 07:47.000]  Pour manger, il faut encore des tickets de rationnement.
+[07:47.000 --> 07:51.000]  Les vêtements sont rapiécés. La plupart des gens ont les dents pourries.
+[07:51.000 --> 07:55.000]  Le niveau de vie des ouvriers est retombé à celui qu'ils avaient en 1860.
+[07:58.000 --> 08:03.000]  Dans cet univers, la sécurité sociale, on voit tout de suite à quoi ça sert.
+[08:03.000 --> 08:06.000]  Mais pour bien comprendre d'où vient cette idée,
+[08:06.000 --> 08:08.000]  on a encore un grand bond en arrière.
+[08:08.000 --> 08:11.000]  Parce que la sécu n'est pas apparue avec la résistance.
+[08:11.000 --> 08:14.000]  L'idée a au moins deux siècles.
+[08:14.000 --> 08:16.000]  Ça nous rappelle que les grands changements
+[08:16.000 --> 08:19.000]  ne sortent jamais du chapeau comme ça par magie.
+[08:19.000 --> 08:22.000]  Les idées révolutionnaires cheminent très longtemps
+[08:22.000 --> 08:25.000]  avant de rencontrer le contexte qui les rend possible.
+[08:27.000 --> 08:29.000]  C'est à la Révolution française
+[08:29.000 --> 08:31.000]  qu'on commence à se dire que la nation
+[08:31.000 --> 08:34.000]  a des devoirs envers ses citoyens pauvres.
+[08:34.000 --> 08:36.000]  Et cette révolution, elle est faite par des bourgeois,
+[08:36.000 --> 08:38.000]  plutôt du genre libéral.
+[08:38.000 --> 08:42.000]  Et donc, pour eux, chacun chacune est censé se protéger tout seul
+[08:42.000 --> 08:44.000]  contre les risques de la vie,
+[08:44.000 --> 08:46.000]  contre la maladie, la vieillesse, les accidents.
+[08:46.000 --> 08:49.000]  Si on a les moyens, il faut mettre de l'argent de côté.
+[08:49.000 --> 08:53.000]  Et si on n'en a pas, il faut compter sur la chance ou la charité.
+[08:57.000 --> 09:00.000]  Au XIXe siècle, certains ouvriers commencent à prendre en main
+[09:00.000 --> 09:04.000]  cette protection et organisent des sociétés de secours mutuelles.
+[09:04.000 --> 09:07.000]  Quand on cotise, on obtient en contrepartie
+[09:07.000 --> 09:10.000]  une certaine protection face aux aléas du travail,
+[09:10.000 --> 09:13.000]  les accidents, les maladies, etc.
+[09:13.000 --> 09:16.000]  C'est donc une invention du mouvement ouvrier.
+[09:16.000 --> 09:18.000]  Beaucoup d'hommes, mais aussi des femmes,
+[09:18.000 --> 09:21.000]  qui se révoltent contre leurs conditions de travail indignes
+[09:21.000 --> 09:23.000]  et pensent que l'organisation collective,
+[09:23.000 --> 09:26.000]  c'est la solution face au patron.
+[09:30.000 --> 09:33.000]  On va tuer pour la gagner, on se battra pour la garder.
+[09:36.000 --> 09:39.000]  Grâce aux luttes des ouvriers et des syndicats,
+[09:39.000 --> 09:41.000]  l'idée continue de progresser.
+[09:41.000 --> 09:45.000]  Et en 1928 et 1930, des lois créent des assurances sociales
+[09:45.000 --> 09:47.000]  pour certains salariés.
+[09:47.000 --> 09:50.000]  C'est une avancée, mais il y a plein de caisses différentes
+[09:50.000 --> 09:53.000]  et le niveau des prestations est très bas.
+[09:53.000 --> 09:56.000]  Mais dites-moi, il y a 30 ans, il y a 40 ans,
+[09:56.000 --> 09:58.000]  comment faisiez-vous sans la Sécurité sociale ?
+[09:58.000 --> 10:00.000]  Quand on avait les moyens de se soigner.
+[10:00.000 --> 10:03.000]  Mais à ce moment-là, quand il n'y avait pas de Sécurité sociale,
+[10:03.000 --> 10:05.000]  ma fille a été opérée deux fois,
+[10:05.000 --> 10:09.000]  je vous garantis que les fans de moi, on ne pouvait pas les faire.
+[10:09.000 --> 10:11.000]  Personnellement, j'ai 80 ans maintenant,
+[10:11.000 --> 10:13.000]  je suis bien content que la Sécurité sociale existe.
+[10:13.000 --> 10:15.000]  Sans ça, je serais déjà mort.
+[10:20.000 --> 10:23.000]  La vie sans la Sécu, que cet homme décrit,
+[10:23.000 --> 10:26.000]  c'est celle que vivent encore aujourd'hui beaucoup de gens,
+[10:26.000 --> 10:28.000]  dans les Etats-Unis par exemple,
+[10:28.000 --> 10:32.000]  ce pays où on peut finir endetté à vie parce qu'on a eu un cancer,
+[10:32.000 --> 10:36.000]  où il est prudent d'économiser pour se payer un accouchement.
+[10:36.000 --> 10:39.000]  Mais revenons en France dans les années 30.
+[10:39.000 --> 10:42.000]  L'idée d'une Sécurité sociale n'enthousiasme pas tout le monde.
+[10:42.000 --> 10:46.000]  Déjà à l'époque, les patrons s'inquiètent du renchérissement du coût du travail
+[10:46.000 --> 10:49.000]  par rapport à un marché du travail purement libéral
+[10:49.000 --> 10:52.000]  et menacent déjà de délocaliser dans les colonies
+[10:52.000 --> 10:56.000]  en disant finalement qu'on trouvera là-bas du travail bien moins cher.
+[10:57.000 --> 10:59.000]  C'est drôle de voir comment les arguments du patronat
+[10:59.000 --> 11:01.000]  n'ont pas changé en un siècle.
+[11:02.000 --> 11:05.000]  Donc, en 1945, il y a déjà des caisses d'assurance,
+[11:05.000 --> 11:07.000]  mais tout le monde n'est pas assuré,
+[11:07.000 --> 11:09.000]  et ça manque de vision politique.
+[11:12.000 --> 11:15.000]  Le général de Gaulle, qui a formé son second ministère,
+[11:15.000 --> 11:17.000]  le premier de la Quatrième République,
+[11:17.000 --> 11:21.000]  ministère d'Union, fondé sur un programme démocratique et hardi,
+[11:21.000 --> 11:24.000]  va recevoir à l'hôtel Matignon les membres du nouveau cabinet.
+[11:24.000 --> 11:28.000]  C'est ainsi que M. Ambroise Croizat, nouveau ministre du Travail,
+[11:28.000 --> 11:32.000]  est un métallurgiste encore tout proche des problèmes qu'il aura à résoudre.
+[11:34.000 --> 11:37.000]  Des ministres communistes dans un gouvernement de droite,
+[11:37.000 --> 11:40.000]  il n'y en a pas eu d'autre dans l'histoire de France.
+[11:42.000 --> 11:44.000]  L'après-guerre est une séquence assez unique,
+[11:44.000 --> 11:47.000]  avec l'alignement de plusieurs forces politiques
+[11:47.000 --> 11:50.000]  qui vont de la droite chrétienne aux gaullistes
+[11:50.000 --> 11:52.000]  jusqu'aux socialistes et aux communistes.
+[11:52.000 --> 11:56.000]  C'est une parenthèse qui prolonge l'Union de la Résistance.
+[11:56.000 --> 11:58.000]  Et dans ce moment exceptionnel,
+[11:58.000 --> 12:00.000]  toutes les forces politiques sont au moins d'accord
+[12:00.000 --> 12:03.000]  sur le grand principe de la sécurité sociale.
+[12:04.000 --> 12:06.000]  Ambroise Croizat, le ministre du Travail,
+[12:06.000 --> 12:08.000]  est chargé de mettre en œuvre la réforme,
+[12:08.000 --> 12:12.000]  avec Pierre Larocque, directeur de la Sécurité sociale.
+[12:12.000 --> 12:14.000]  Ce sont deux hommes très différents.
+[12:17.000 --> 12:19.000]  Ambroise Croizat, je l'ai dit au début,
+[12:19.000 --> 12:22.000]  commence très jeune à l'usine et dans le mouvement syndical.
+[12:22.000 --> 12:26.000]  Il a connu la misère et même député ne s'est pas embourgeoisé.
+[12:26.000 --> 12:29.000]  A l'époque, le Parti communiste perçoit directement
+[12:29.000 --> 12:31.000]  les indemnités de ses députés,
+[12:31.000 --> 12:35.000]  à qui il reverse l'équivalent d'un salaire d'ouvriers qualifiés.
+[12:35.000 --> 12:37.000]  Ça permet de financer le parti
+[12:37.000 --> 12:41.000]  et de s'assurer que les députés ne s'éloignent pas trop de la vraie vie.
+[12:41.000 --> 12:45.000]  Ça aussi, ça donne des idées pour aujourd'hui, je trouve.
+[12:45.000 --> 12:48.000]  Pierre Larocque, lui, est haut fonctionnaire,
+[12:48.000 --> 12:50.000]  un spécialiste des assurances sociales.
+[12:50.000 --> 12:54.000]  Il a quitté le gouvernement de Vichy pour rejoindre la résistance.
+[12:54.000 --> 12:56.000]  Très marqué par le Front populaire,
+[12:56.000 --> 13:00.000]  il croit énormément, lui aussi, à la Sécurité sociale.
+[13:02.000 --> 13:05.000]  La première rencontre entre les deux hommes est plutôt froide.
+[13:05.000 --> 13:08.000]  Mais bientôt, il forme une équipe très efficace.
+[13:08.000 --> 13:13.000]  Écoutons plutôt M. Ambroise Croizat, qui s'adresse au Conseil.
+[13:13.000 --> 13:16.000]  Nous franchissons aujourd'hui une étape décisive
+[13:16.000 --> 13:19.000]  dans l'application du plan de sécurité sociale
+[13:19.000 --> 13:23.000]  dont la France peut, à juste titre, être fière.
+[13:23.000 --> 13:27.000]  Et ceci est un des caractères les plus originaux du plan français.
+[13:27.000 --> 13:32.000]  Celui-ci prévoit la remise complète entre les mains des assurés eux-mêmes
+[13:32.000 --> 13:36.000]  de la gestion des organismes de sécurité sociale.
+[13:36.000 --> 13:40.000]  En clair, ça veut dire que les travailleurs siégeront dans des conseils avec les patrons
+[13:40.000 --> 13:43.000]  et qu'ils auront les trois quarts des sièges.
+[13:44.000 --> 13:48.000]  Français, vous voterez bientôt, comme vous y convit M. Larocque,
+[13:48.000 --> 13:50.000]  directeur de la Sécurité sociale.
+[13:50.000 --> 13:54.000]  24 avril prochain, il va être procédé par toute la France
+[13:54.000 --> 13:58.000]  à des élections générales en vue de pourvoir à la désignation
+[13:58.000 --> 14:03.000]  des conseils d'administration des caisses de Sécurité sociale et d'allocations familiales.
+[14:03.000 --> 14:06.000]  Ce sont des instruments de solidarité.
+[14:06.000 --> 14:10.000]  Comme telles, elles doivent être gérées par les intéressés eux-mêmes
+[14:11.000 --> 14:15.000]  ou par les représentants élus qui pourront, mieux que qui compte,
+[14:15.000 --> 14:19.000]  orienter l'emploi des fonds et le fonctionnement même des services
+[14:19.000 --> 14:22.000]  dans le sens des désirs des travailleurs.
+[14:24.000 --> 14:26.000]  Cette idée est centrale.
+[14:26.000 --> 14:30.000]  Les travailleurs vont gérer eux-mêmes la Sécurité sociale.
+[14:30.000 --> 14:34.000]  C'est ça qui en fait un projet de justice sociale.
+[14:35.000 --> 14:39.000]  La Sécurité sociale sera financée par des cotisations.
+[14:39.000 --> 14:43.000]  La cotisation, c'est l'argent que les membres d'un groupe acceptent
+[14:43.000 --> 14:45.000]  de verser pour un but commun.
+[14:45.000 --> 14:49.000]  C'est très différent de l'impôt, où c'est l'Etat qui prélève de l'argent
+[14:49.000 --> 14:51.000]  et qui décide ce qu'il en fait.
+[14:51.000 --> 14:54.000]  Par exemple, imaginez que vous êtes en vacances.
+[14:54.000 --> 14:58.000]  Les cotisations, c'est quand tout le monde met dans le pot commun
+[14:58.000 --> 15:00.000]  et fait la liste des menus.
+[15:00.000 --> 15:03.000]  Les impôts, c'est quand tout le monde donne de l'argent au chef
+[15:03.000 --> 15:06.000]  qui décide ce que tout le monde va manger.
+[15:06.000 --> 15:09.000]  Dans le film La Sociale de Gilles Perret,
+[15:09.000 --> 15:12.000]  que je vous recommande chaudement parce que c'est très émouvant,
+[15:12.000 --> 15:15.000]  l'économiste de gauche Bernard Friot souligne à quel point
+[15:15.000 --> 15:18.000]  ce fonctionnement n'allait pas de soi.
+[15:18.000 --> 15:21.000]  Il fallait regrouper des centaines de caisses d'affinités,
+[15:21.000 --> 15:24.000]  des caisses patronales, des caisses confessionnelles,
+[15:24.000 --> 15:27.000]  des caisses syndicales, des caisses mutualistes,
+[15:27.000 --> 15:29.000]  en plus des caisses départementales.
+[15:29.000 --> 15:32.000]  Alors bien sûr, le contexte de l'époque est très différent
+[15:32.000 --> 15:34.000]  de celui qu'on connaît aujourd'hui.
+[15:34.000 --> 15:37.000]  Les travailleurs ont un vrai poids politique.
+[15:37.000 --> 15:40.000]  Pendant la guerre, une partie de la droite et du patronat
+[15:40.000 --> 15:43.000]  s'est largement disqualifiée en collaborant avec les nazis.
+[15:43.000 --> 15:46.000]  Du coup, ils sont un peu moins forts qu'avant.
+[15:46.000 --> 15:50.000]  Le mouvement ouvrier, lui, est sorti grandit de la résistance.
+[15:50.000 --> 15:54.000]  En 1945, il n'y a jamais eu autant d'ouvriers en France.
+[15:54.000 --> 15:56.000]  Le Parti Sociale de Gilles Perret,
+[15:56.000 --> 15:59.000]  il n'y a jamais eu autant d'ouvriers en France.
+[15:59.000 --> 16:02.000]  Le Parti communiste représente 29% des voix.
+[16:02.000 --> 16:05.000]  Un gros syndicat comme celui de la CGT
+[16:05.000 --> 16:07.000]  a plus de 5 millions d'adhérents.
+[16:07.000 --> 16:09.000]  Aujourd'hui, elle en a 600 000.
+[16:09.000 --> 16:13.000]  Mais Croizat sait que l'unanimité autour de la Sécu est fragile.
+[16:13.000 --> 16:15.000]  Il n'y a pas de temps à perdre.
+[16:15.000 --> 16:17.000]  Il y a énormément de choses à faire.
+[16:17.000 --> 16:20.000]  Il faut unifier les caisses existantes,
+[16:20.000 --> 16:23.000]  rassembler les noms des bénéficiaires, créer des locaux.
+[16:23.000 --> 16:26.000]  Croizat se tourne donc vers des gens qu'il connaît bien,
+[16:26.000 --> 16:28.000]  les militants de la CGT.
+[16:28.000 --> 16:31.000]  Il faut unifier les caisses existantes,
+[16:31.000 --> 16:34.000]  rassembler les noms des bénéficiaires, créer des locaux.
+[16:34.000 --> 16:37.000]  Croizat se tourne donc vers des gens qu'il connaît bien,
+[16:37.000 --> 16:39.000]  les militants de la CGT.
+[16:48.000 --> 16:50.000]  Dans son film La Sociale,
+[16:50.000 --> 16:52.000]  Gilles Perret a rencontré l'un d'eux,
+[16:52.000 --> 16:54.000]  Jolfret Fregonarin.
+[16:54.000 --> 16:57.000]  Je suis le dernier poilu de la Sécurité sociale.
+[16:57.000 --> 16:59.000]  Un des derniers.
+[17:00.000 --> 17:02.000]  Les militants comme lui
+[17:02.000 --> 17:05.000]  mettent en place les caisses de la Sécurité sociale.
+[17:05.000 --> 17:08.000]  Ils font du porte-à-porte pour recenser les bénéficiaires.
+[17:08.000 --> 17:10.000]  Ils cherchent des locaux,
+[17:10.000 --> 17:12.000]  les construisent quand ils n'en trouvent pas.
+[17:12.000 --> 17:14.000]  Et ils font ça sur leur temps libre.
+[17:14.000 --> 17:16.000]  Comme permanent, on ne compte pas les heures.
+[17:16.000 --> 17:18.000]  Dans ma vie de militant,
+[17:18.000 --> 17:21.000]  j'ai eu deux dimanches après-midi par mois.
+[17:21.000 --> 17:24.000]  Et j'ai eu une épouse formidable.
+[17:24.000 --> 17:26.000]  Jamais, elle m'a fait...
+[17:26.000 --> 17:28.000]  Jamais, jamais elle m'a dit
+[17:28.000 --> 17:30.000]  « Oh, j'aimerais que tu restes là ».
+[17:30.000 --> 17:33.000]  Jamais, jamais. C'était une militante aussi.
+[17:33.000 --> 17:35.000]  J'ai eu de la chance.
+[17:40.000 --> 17:42.000]  Le bénévolat,
+[17:42.000 --> 17:45.000]  le travail et l'énergie que les gens prennent sur leur temps libre,
+[17:45.000 --> 17:49.000]  c'est ce qui fait que de grandes avancées peuvent enfin voir le jour.
+[17:49.000 --> 17:51.000]  Et c'est encore vrai aujourd'hui.
+[17:51.000 --> 17:53.000]  En même pas un an,
+[17:53.000 --> 17:56.000]  grâce au travail bénévole de ces militants et militantes,
+[17:56.000 --> 17:59.000]  la Sécurité sociale est créée.
+[17:59.000 --> 18:02.000]  Ils sont restés anonymes et il reste peu d'archives.
+[18:02.000 --> 18:07.000]  Mais c'est à elles et eux aussi qu'on doit notre Sécurité sociale.
+[18:07.000 --> 18:09.000]  On était des travailleurs,
+[18:09.000 --> 18:11.000]  donc la Sécurité sociale c'était pour nous.
+[18:11.000 --> 18:13.000]  Alors on savait ce qu'on voulait,
+[18:13.000 --> 18:14.000]  pour notre bien-être.
+[18:14.000 --> 18:18.000]  Désormais, une somme correspondant à une fois et demi le budget de l'État
+[18:18.000 --> 18:20.000]  est gérée par les travailleurs.
+[18:20.000 --> 18:23.000]  Joel Fred Fregonara siège dans l'un de ses conseils d'administration.
+[18:23.000 --> 18:25.000]  Est-ce que vous avez un peu secoué les patrons pour que...
+[18:25.000 --> 18:27.000]  Ah oui, oui, oui, oui.
+[18:27.000 --> 18:28.000]  Oh bah oui.
+[18:28.000 --> 18:30.000]  Camarade.
+[18:31.000 --> 18:32.000]  C'est sûr.
+[18:32.000 --> 18:34.000]  Ah bah c'était notre boulot.
+[18:34.000 --> 18:36.000]  On voulait pas se laisser faire.
+[18:36.000 --> 18:38.000]  C'était nous les rois.
+[18:38.000 --> 18:40.000]  Nous les rois.
+[18:44.000 --> 18:47.000]  Grâce à un contexte politique particulier
+[18:47.000 --> 18:51.000]  et à l'engagement bénévole et passionné de militants aujourd'hui oubliés,
+[18:51.000 --> 18:54.000]  une idée ancienne et splendide,
+[18:54.000 --> 18:58.000]  celle qui dit que tout le monde a droit à la protection et aux soins,
+[18:58.000 --> 19:01.000]  est devenue la sécurité sociale.
+[19:05.000 --> 19:08.000]  Et comme le dit l'historien Michel Etievant,
+[19:08.000 --> 19:10.000]  c'est une réussite qui va bien plus loin
+[19:10.000 --> 19:13.000]  que la protection contre la maladie ou la vieillesse.
+[19:13.000 --> 19:16.000]  La sécurité sociale, ça n'est rien que le droit de vivre.
+[19:16.000 --> 19:18.000]  Et pour moi, Croizat, c'est d'abord ça.
+[19:18.000 --> 19:21.000]  Avant tout, le corpus de loi qui nous laisse,
+[19:21.000 --> 19:24.000]  c'est cet homme qui entre ici et qui dit enfin,
+[19:24.000 --> 19:27.000]  nous allons finir avec les angoisses du lendemain.
+[19:27.000 --> 19:30.000]  Désormais, nous mettrons l'homme à l'abri du besoin.
+[19:30.000 --> 19:33.000]  Désormais, la retraite ne sera plus l'antichambe de la mort,
+[19:33.000 --> 19:35.000]  mais une nouvelle étape de la vie.
+[19:35.000 --> 19:39.000]  Et nous ferons de la vie autre chose qu'une charge ou un calvaire.
+[19:39.000 --> 19:43.000]  Moi, je me demande, quelles sont les idées qui paraissent folles aujourd'hui,
+[19:43.000 --> 19:46.000]  qui seront peut-être appliquées dans deux siècles ?
+[19:46.000 --> 19:48.000]  Le revenu universel ?
+[19:48.000 --> 19:50.000]  L'abolition des frontières ?
+[19:50.000 --> 19:53.000]  La destruction de toutes les prisons ?
+[19:53.000 --> 19:55.000]  La décroissance économique ?
+[19:55.000 --> 19:58.000]  L'interdiction totale des énergies fossiles ?
+[19:58.000 --> 20:01.000]  Ou l'interdiction des avions, sauf ceux en papier ?
+[20:01.000 --> 20:03.000]  Je rêve de le savoir.
+[20:04.000 --> 20:07.000]  J'espère juste qu'il ne faudra pas passer par une nouvelle guerre mondiale
+[20:07.000 --> 20:09.000]  pour les obtenir.
+[20:11.000 --> 20:13.000]  Et parfois, on gagne.
+[20:13.000 --> 20:17.000]  On l'a vu, sans les syndicats et la menace de la grève,
+[20:17.000 --> 20:19.000]  pas de sécurité sociale.
+[20:19.000 --> 20:21.000]  Qu'en est-il aujourd'hui ?
+[20:21.000 --> 20:24.000]  Un sociologue et politiste, chercheur au CNRS,
+[20:24.000 --> 20:27.000]  analyse le mouvement syndical contemporain.
+[20:27.000 --> 20:30.000]  Il a coécrit un manuel de sociologie politique du syndicalisme.
+[20:30.000 --> 20:33.000]  Il nous explique que si les rapports de force sont bien différents,
+[20:33.000 --> 20:37.000]  entre 1945 et aujourd'hui, ça ne veut pas dire que rien n'est possible.
+[20:37.000 --> 20:41.000]  Même si en 1945, c'était plus facile d'organiser des mouvements de grève.
+[20:41.000 --> 20:43.000]  Il y avait une culture de la grève,
+[20:43.000 --> 20:46.000]  il y avait une conflictualité sociale plus forte,
+[20:46.000 --> 20:49.000]  mais en fait, les cultures, elles s'acquièrent,
+[20:49.000 --> 20:51.000]  ça prend en fait la grève.
+[20:51.000 --> 20:54.000]  Et on est surtout dans un contexte où le monde du travail
+[20:54.000 --> 20:58.000]  se caractérise par l'existence de très fortes concentrations ouvrières.
+[20:58.000 --> 21:01.000]  C'est beaucoup plus facile d'organiser une grève
+[21:01.000 --> 21:04.000]  quand on est dans une usine automobile de milliers de travailleurs
+[21:04.000 --> 21:07.000]  où il y a une place centrale où on peut s'adresser un peu à tout le monde
+[21:07.000 --> 21:10.000]  à des heures précises où, en fonction des 3-8,
+[21:10.000 --> 21:12.000]  les uns embauchent ou débauchent,
+[21:12.000 --> 21:14.000]  que dans le monde du travail actuel
+[21:14.000 --> 21:17.000]  où les salariés ont des dizaines de statuts différents
+[21:17.000 --> 21:18.000]  dans le milieu de travail,
+[21:18.000 --> 21:21.000]  ils embauchent ou débauchent à des heures complètement différentes les uns des autres.
+[21:21.000 --> 21:23.000]  Ils n'ont même pas forcément le même patron.
+[21:23.000 --> 21:26.000]  Certains sont en CDI et peuvent se permettre de faire grève
+[21:26.000 --> 21:29.000]  parce qu'ils n'auront pas la crainte de ne pas être embauchés,
+[21:29.000 --> 21:32.000]  alors que les intérimaires ou les CDD, ils sont obligés d'y réfléchir à deux fois.
+[21:32.000 --> 21:36.000]  Donc la culture de la grève, c'est surtout aussi le reflet de conditions sociales et politiques
+[21:36.000 --> 21:40.000]  qui permettent aux syndicats d'organiser collectivement la grève.
+[21:40.000 --> 21:43.000]  De ce point de vue-là, il y a effectivement une grosse différence
+[21:43.000 --> 21:46.000]  avec la situation actuelle où les syndicats,
+[21:46.000 --> 21:49.000]  ils sont surtout en capacité de faire des démonstrations de forces militantes,
+[21:49.000 --> 21:52.000]  par exemple en organisant des manifestations de masse.
+[21:52.000 --> 21:55.000]  Mais l'organisation de conflits du travail dans les entreprises,
+[21:55.000 --> 21:56.000]  c'est beaucoup plus dur.
+[21:56.000 --> 21:59.000]  Et aujourd'hui, les grèves, elles sont souvent beaucoup plus courtes.
+[21:59.000 --> 22:02.000]  Elles impliquent moins de salariés parce que c'est plus difficile,
+[22:02.000 --> 22:04.000]  c'est plus coûteux, c'est plus risqué de faire grève.
+[22:04.000 --> 22:06.000]  Mais ça ne veut pas dire que ça paye moins.
+[22:06.000 --> 22:09.000]  Donc aujourd'hui, si on veut gagner des choses, il faut syndiquer ?
+[22:09.000 --> 22:10.000]  Oui, plus que jamais.
+[22:10.000 --> 22:15.000]  En plus, on a vu le taux de syndicalisation rebondir un petit peu ces dernières années,
+[22:15.000 --> 22:19.000]  à la fois pendant le mouvement des retraites et l'année suivante
+[22:19.000 --> 22:22.000]  dans le cadre de la mobilisation des syndicats
+[22:22.000 --> 22:26.000]  en soutien aux nouveaux fronts populaires pour faire barrage à l'extrême droite.
+[22:26.000 --> 22:29.000]  Moi qui étudie de près les organisations syndicales,
+[22:29.000 --> 22:32.000]  on a vu arriver de nouvelles générations de militants.
+[22:32.000 --> 22:35.000]  Et ce syndicat, c'est important parce que ça permet
+[22:35.000 --> 22:39.000]  de ne pas être tout seul ou toute seule dans son coin.
+[22:39.000 --> 22:42.000]  C'est important aussi que les nouvelles générations investissent les syndicats
+[22:42.000 --> 22:44.000]  parce que pour que les syndicats soient à la page,
+[22:44.000 --> 22:47.000]  il faut qu'ils soient confrontés aux problématiques des nouvelles générations,
+[22:47.000 --> 22:51.000]  aux problématiques de précarité, aux problématiques de discrimination,
+[22:51.000 --> 22:54.000]  à tout un tas de problèmes qu'ils peuvent rencontrer
+[22:54.000 --> 22:57.000]  dans leurs activités diverses et variées.
+[22:57.000 --> 23:00.000]  Et puis ce syndicat, c'est aussi trouver un cadre
+[23:00.000 --> 23:05.000]  pour discuter avec ses collègues à la fois de son travail,
+[23:05.000 --> 23:07.000]  de son utilité sociale ou pas,
+[23:07.000 --> 23:11.000]  et puis s'approprier justement cette histoire des luttes sociales
+[23:11.000 --> 23:15.000]  de toute cette capacité révolutionnaire que le syndicalisme a développé
+[23:15.000 --> 23:16.000]  au fil de son histoire.
+[23:16.000 --> 23:20.000]  Donc je pense que c'est à la fois extrêmement important
+[23:20.000 --> 23:23.000]  en termes tout simplement de construction,
+[23:23.000 --> 23:26.000]  de protection individuelle et collective de syndicat,
+[23:26.000 --> 23:29.000]  mais aussi en termes de formation, d'apprentissage,
+[23:29.000 --> 23:31.000]  de formation culturelle, j'ai envie de dire,
+[23:31.000 --> 23:33.000]  et politique plus fondamentalement.
+[23:33.000 --> 23:37.000]  Et aussi pour pouvoir imaginer des projets aussi révolutionnaires
+[23:37.000 --> 23:39.000]  que l'a été la Sécu.
+[23:39.000 --> 23:42.000]  Oui, et contrairement à l'image qu'on pourrait avoir aussi de syndicats
+[23:42.000 --> 23:45.000]  qui sont des structures très bureaucratisées
+[23:45.000 --> 23:47.000]  où tout se décide en haut,
+[23:47.000 --> 23:49.000]  le syndicalisme, son principe de base,
+[23:49.000 --> 23:53.000]  c'est que les travailleurs, quand ils décident de s'organiser
+[23:53.000 --> 23:56.000]  sur la base d'une entreprise ou d'une activité commune,
+[23:56.000 --> 23:58.000]  ils ou elles forment leur syndicat.
+[23:58.000 --> 24:01.000]  Et ce syndicat ensuite s'affilie à des organisations
+[24:01.000 --> 24:04.000]  qui peuvent être la CGT, la CFDT, Solidaire ou d'autres.
+[24:04.000 --> 24:07.000]  Et donc c'est une organisation qui est très décentralisée en vérité.
+[24:07.000 --> 24:09.000]  Donc il y a vraiment des espaces, parfois même,
+[24:09.000 --> 24:12.000]  c'est le problème inverse, c'est que c'est un peu trop le chaos,
+[24:12.000 --> 24:14.000]  mais en tout cas il y a des espaces de prise de parole.
+[24:14.000 --> 24:16.000]  Il y a de quoi rencontrer des gens différents,
+[24:16.000 --> 24:19.000]  il y a de quoi discuter et c'est pas du tout une armée
+[24:19.000 --> 24:22.000]  où on recevrait les directives du sommet
+[24:22.000 --> 24:25.000]  et où il faudrait tous se pointer à 6 heures du matin
+[24:25.000 --> 24:27.000]  pour organiser le piquet de grève.
+[24:27.000 --> 24:29.000]  Ou se taper des réunions de 3 heures.
+[24:29.000 --> 24:31.000]  C'est un cadre de discussion collective
+[24:31.000 --> 24:33.000]  et le syndicat prend les formes
+[24:33.000 --> 24:36.000]  que les travailleuses et travailleurs qui l'investissent
+[24:36.000 --> 24:38.000]  veulent bien lui donner.
+[24:38.000 --> 24:41.000]  Donc là on voit que dans la période contemporaine,
+[24:41.000 --> 24:45.000]  le syndicalisme est en train de reprendre un peu du poil de la bête.
+[24:45.000 --> 24:49.000]  Est-ce que ça veut dire qu'il peut aussi maintenant avoir
+[24:49.000 --> 24:52.000]  un imaginaire aussi puissant que celui qui a donné lieu à la Sécurité sociale ?
+[24:52.000 --> 24:55.000]  Et si oui, ce serait quoi la Sécurité sociale d'aujourd'hui
+[24:55.000 --> 24:58.000]  pour lequel le syndicalisme pourrait se battre ?
+[24:58.000 --> 25:02.000]  Le modèle de la Sécurité sociale est aujourd'hui vraiment une source d'inspiration.
+[25:02.000 --> 25:05.000]  Certains syndicats participent aux réflexions,
+[25:05.000 --> 25:07.000]  je pense notamment à la Confédération paysanne,
+[25:07.000 --> 25:10.000]  mais autour de la Sécurité sociale de l'alimentation.
+[25:10.000 --> 25:13.000]  Un peu l'équivalent d'une carte vitale mais qui donnerait accès
+[25:13.000 --> 25:19.000]  à des productions bio-locales en circuit court de fruits et légumes ou autres
+[25:19.000 --> 25:25.000]  qui permettraient justement de favoriser aussi à la fois le bien manger,
+[25:25.000 --> 25:30.000]  l'activité économique locale et puis aussi des formes de travail
+[25:30.000 --> 25:33.000]  qui soient en rupture aussi avec l'industrie agroalimentaire
+[25:33.000 --> 25:35.000]  et toutes ces conséquences polluantes.
+[25:35.000 --> 25:38.000]  Et de ce point de vue-là, on peut tracer un lien direct
+[25:38.000 --> 25:41.000]  entre une Sécurité sociale de l'alimentation
+[25:41.000 --> 25:44.000]  et une Sécurité sociale de la redirection écologique.
+[25:44.000 --> 25:49.000]  C'est l'idée que certaines filières industrielles peuvent être très polluantes.
+[25:49.000 --> 25:52.000]  Je parlais de l'agroalimentaire, la pollution des nappes phréatiques
+[25:52.000 --> 25:58.000]  à cause de l'élevage massif, intensif, de porcs ou de cultures diverses et variées.
+[25:58.000 --> 26:01.000]  Ça peut être des productions polluantes qui sont appelées à disparaître
+[26:01.000 --> 26:05.000]  comme les automobiles qui fonctionnent à l'essence.
+[26:05.000 --> 26:09.000]  Réfléchir à l'extinction de ces filières-là,
+[26:09.000 --> 26:14.000]  ça suppose évidemment de ne pas sacrifier le travail de ceux qui y sont aujourd'hui.
+[26:14.000 --> 26:18.000]  Donc c'est penser aussi la façon dont les travailleurs et travailleuses de ces secteurs-mêmes
+[26:18.000 --> 26:24.000]  pourraient être à l'origine d'une réflexion sur qu'est-ce qu'on pourrait faire à la place
+[26:24.000 --> 26:26.000]  en s'appuyant sur les compétences qu'on a développées
+[26:26.000 --> 26:28.000]  parce qu'il y a tout un tas de savoir-faire professionnels
+[26:28.000 --> 26:30.000]  qui sont développés dans tous ces secteurs.
+[26:30.000 --> 26:35.000]  Mais au service d'une production qui soit écologiquement soutenable et socialement utile.
+[26:35.000 --> 26:39.000]  Et ça, ça suppose de redonner la parole aux salariés eux-mêmes et elles-mêmes
+[26:39.000 --> 26:42.000]  pour réfléchir à des mesures de transition
+[26:42.000 --> 26:48.000]  qui permettraient d'aller vers un système qui soit socialement et écologiquement soutenable.
+[26:48.000 --> 26:51.000]  Rendez-vous le mois prochain pour un nouvel épisode de « Et parfois on gagne ».
+[26:51.000 --> 26:54.000]  En attendant, nous sommes curieux et curieuses d'entendre vos impressions,
+[26:54.000 --> 26:57.000]  vos remarques, voir vos suggestions d'histoires.
+[26:57.000 --> 27:00.000]  Vous pouvez nous écrire sur les réseaux sociaux ou à l'adresse
+[27:00.000 --> 27:03.000]  etparfondsongagne.arobazartfrance.fr
+[27:03.000 --> 27:06.000]  Faites donc circuler ces épisodes à vos amis désenchantés
+[27:06.000 --> 27:09.000]  pour leur rappeler qu'il y a beaucoup de choses à faire.
+[27:09.000 --> 27:11.000]  Merci d'avoir regardé cette vidéo !
+[27:18.000 --> 27:21.000]  Appelez que parfois, on gagne !
+[27:23.000 --> 27:26.000]  À suivre sur Arte Radio !
