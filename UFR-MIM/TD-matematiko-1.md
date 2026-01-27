@@ -110,3 +110,16 @@ $\therefore$ ensemble de définition $D_f$: $\{x \in R\}$
 7. $f(x)=g(h(x))$, où $g(y)=ln(y), h(x)=\frac{x+1}{2x^2+3}$
 8. $f(x)=g(h(x))$, où $g(y)=(y^{0.5}-2)ln(y), h(x)=(x+2)^2$
 9. $f(x)=g(h(m(x)))$, où $g(y)=e^y,h(z)=z^{0.5}+3,m(x)=x^2+1$
+
+## Exercice 4
+
+1. $f'(x)=g'(h(x))\cdot h'(x)=-y^{-2}\cdot 3 = -3(3x-1)^{-2}$
+2. $f'(x)=g'(h(x))\cdot h'(x)=0.5y^{-0.5}\cdot (-2x)=-x(4-x^2)^{-0.5}$
+3. $f'(x)=g'(h(x))\cdot h'(x)=y^{-1}\cdot(e^x)=(e^x+2)^{-1}e^x$
+4. $f'(x)=-2x\ sin(x^2)$
+5. $f'(x)=-2cox(x)sin(x)$
+6. $f'(x)=-sin(\frac{x-1}{2x+1})\cdot \frac{(2x+1)+2(x-1)}{(2x+1)^2}$
+$=-sin(\frac{x-1}{2x+1})\cdot \frac{(4x-1)}{4x^2+4x+1}$
+7. $f'(x)=\frac{2x^2+3}{x+1}\cdot \frac{(2x^2+3)-(x+1)(4x)}{(2x^2+3)^2}$
+$=\frac{2x^2+3}{x+1}\cdot \frac{(2x^2+3)-(4x^2+4x)}{4x^4+12x^2+9}$
+$=\frac{2x^2+3}{x+1}\cdot \frac{-2x^2-4x+3}{4x^4+12x^2+9}$
