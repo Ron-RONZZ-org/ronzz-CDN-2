@@ -11,3 +11,10 @@
 ## disvolviĝo
 
 - temo : `sudo ln -s ~/dokumento/kodo-ronzz-org-temo/temo-koda-ease /var/www/read-ronzz-org/content/themes/koda-ease`
+
+## rapidaj mendoj
+
+```bash
+cd /var/www/read-ronzz-org
+copilot --banner
+```

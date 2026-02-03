@@ -6,6 +6,18 @@
 
 ## Bazoj
 
+### `git init`
+
+```bash
+echo "# koda-ronzz-org" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin {remote-url}
+git push -u origin main
+```
+
 ### `git config`
 
 ```bash
@@ -115,17 +127,17 @@ git commit -m "mesaĝo" -a # -a = add automata
 git reset --soft HEAD~1
 ```
 
-### Repo malproksima
+### Repo malloka
 
 ```bash
-git remote add origin <URL>
+git remote add origin {URL}
 git branch -M main
 git pull origin main # = fetch + merge
 git push -u origin main --force-with-lease
 git push --set-upstream origin bugfix1
 ```
 
-Reiri al stato de malproksima (forviŝi lokalen):
+Reiri al stato de malloka (forviŝi lokalen):
 
 ```bash
 git fetch origin
