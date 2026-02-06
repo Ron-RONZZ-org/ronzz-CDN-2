@@ -190,15 +190,15 @@ if [[ -d "$ITOM_BIN_DIR" ]]; then
     if ! grep -Fq "$ITOM_BIN_DIR" "$BASHRC_FILE" 2>/dev/null; then
         echo "" >> "$BASHRC_FILE"
         echo "# itom ajouté par install script" >> "$BASHRC_FILE"
-        echo "export PATH=\"\$PATH:$ITOM_BIN_DIR\"" >> "$BASHRC_FILE"
-        echo "export LD_LIBRARY_PATH=\"\$LD_LIBRARY_PATH:$INSTALL_DIR/lib\"" >> "$BASHRC_FILE"
+        echo "export PATH=\"\${PATH:-}:$ITOM_BIN_DIR\"" >> "$BASHRC_FILE"
+        echo "export LD_LIBRARY_PATH=\"\${LD_LIBRARY_PATH:-}:$INSTALL_DIR/lib\"" >> "$BASHRC_FILE"
         echo "→ Variables d'environnement ajoutées dans $BASHRC_FILE"
     else
         echo "→ Le PATH contient déjà $ITOM_BIN_DIR"
     fi
     
     # Exporter pour la session actuelle
-    export PATH="$PATH:$ITOM_BIN_DIR"
+    export PATH="${PATH:-}:$ITOM_BIN_DIR"
     export LD_LIBRARY_PATH="${LD_LIBRARY_PATH:-}:$INSTALL_DIR/lib"
 fi
 
