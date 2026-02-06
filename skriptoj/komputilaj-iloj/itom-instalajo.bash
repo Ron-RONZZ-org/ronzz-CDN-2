@@ -118,7 +118,7 @@ cmake "$BUILD_DIR/itom" \
     -DBUILD_QTVERSION=Qt5 \
     -DBUILD_WITH_PCL=ON \
     -DBUILD_WITH_OPENCV=ON \
-    -DPYTHON_EXECUTABLE=$(which python3) \
+    -DPYTHON_EXECUTABLE="$(which python3)" \
     || {
         echo "Erreur lors de la configuration CMake" >&2
         echo "Contenu du CMakeError.log:" >&2
