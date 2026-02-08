@@ -80,3 +80,4 @@ exit
 
 Write-Host "`n=== Traitement terminé ==="
 Pause-End
+/home/rongzhou/Dokumentujo/ronzz-CDN-2/skriptoj/komputilaj-iloj/MS-Win/disko-nurlegebla-protekto-instrukcio-fr.md
