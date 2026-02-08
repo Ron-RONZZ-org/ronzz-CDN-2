@@ -21,3 +21,14 @@ cd /var/www/koda-ronzz-org
 
 copilot --banner
 ```
+
+Ĝisdatigo de la temo "Ease"
+
+```bash
+sudo rm -r /tmp/ease-theme-update
+git clone https://github.com/Ron-RONZZ-org/koda-ronzz-org.git /tmp/ease-theme-update
+sudo mv /var/www/koda-ronzz-org/content/themes/ease /var/www/koda-ronzz-org/content/themes/ease.old
+sudo cp -r /tmp/ease-theme-update/content/themes/ease /var/www/koda-ronzz-org/content/themes/
+sudo chown -R ghost:ghost /var/www/koda-ronzz-org/content/themes/ease
+ghost restart
+```
