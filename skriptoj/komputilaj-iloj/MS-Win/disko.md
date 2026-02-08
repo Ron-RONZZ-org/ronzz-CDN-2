@@ -11,7 +11,7 @@ Get-Disk -Number {diskonumero} # atendata rezulto : IsReadOnly=false
 ```bash
 diskpart
 list disk
-select disk X
+select disk {diskonumero}
 attributes disk clear readonly
 exit
 ```
