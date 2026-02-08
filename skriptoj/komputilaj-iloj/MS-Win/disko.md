@@ -9,12 +9,6 @@ Get-Disk -Number {diskonumero} # atendata rezulto : IsReadOnly=false
 ```
 
 ```bash
-Get-Volume
-Set-Volume -DriveLetter {volumennumero} -IsReadOnly $false
-Get-Disk -Number {diskonumero} # atendata rezulto : IsReadOnly=false
-```
-
-```bash
 diskpart
 list disk
 select disk X
