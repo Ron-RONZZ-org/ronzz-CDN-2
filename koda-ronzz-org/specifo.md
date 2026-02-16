@@ -14,10 +14,19 @@
 
 ## rapidaj mendoj
 
+### Ghost
+
 ```bash
 su - ghost-admin
 
 cd /var/www/koda-ronzz-org
 
 copilot --banner
+```
+
+### Temo
+
+```bash
+cd home/ubuntu/dokumento/kodo-ronzz-org-temo/temo-koda-ease
+git pull
 ```
