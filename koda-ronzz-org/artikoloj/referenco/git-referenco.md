@@ -1,10 +1,32 @@
-# Git referenco
+# Git — Mallonga referenco
+
+## FOSS versia kontrolilo
+
+- desegnita por kunlabora programado je komunuma skalo  
+  - $\Delta$‑bazitaj momentfotoj  
+    - simpla dezajno : tre fidinda  
+    - minimuma rimed-uzo  
+    - alta rapido  
+    - forta subteno por nelineara evoluo  
+      - miloj da paralelaj branĉoj  
+    - plene distribuita
+
+## Evoluigita de Linus Torvalds kaj la Linuksa programista komunumo
+
+- por anstataŭigi la proprietan *BitKeeper*  
+  - kiu estis provizita al ili senpage ĝis 2005
+
+## Tutmonda famo
+
+- varbovorto  
+  - *Github*  
+  - *Gitlab*
 
 ## Rimedoj
 
-- [Lerni](https://learngitbranching.js.org/)
+- [learngitbranching.js.org](https://learngitbranching.js.org/)
 
-## Bazoj
+## 1. Bazoj
 
 ### `git init`
 
@@ -29,41 +51,45 @@ git config credential.helper 'cache --timeout 36000' # --global
 
 ### `git log`
 
-- loka branĉo
+- loka branĉo:
+
   ```bash
   git log --graph --oneline --decorate {branch-name : default HEAD} # --all --color
   ```
-- malloka branĉo
+
+- malloka branĉo:
+
   ```bash
   git fetch origin
   git log --graph --oneline --decorate --color origin/feature-x
   ```
-- 
-### `git commit`, `git branch`, kaj `git rebase`
+
+### `git commit`, `git branch`, `git rebase`
 
 ```bash
 git commit
 git branch {branch_name}
-git switch {branch_name/commit_name/relative_commit_reference} # kreos se ne ekzistas --orphan : sen historio
+git switch {branch_name/commit/relative_ref} # kreos se ne ekzistas; --orphan = sen historio
 
 git merge {branch_name}
-git branch -d {branch_name} # forigi lokan branĉon jam kunfanditan
-git push origin --delete init # forigi malloka ref
-git rebase {target_parent_branch_name} # -i por interactive
+git branch -d {branch_name} # forigi lokan jam kunfanditan
+git push origin --delete init # forigi mallokan referencon
+
+git rebase {target_parent_branch} # -i por interaktiva
 ```
 
 ### `git rollback`
 
 ```bash
-git branch -f {branch/HEAD_to_move} {destination-branch/HEAD} # movas branĉon/HEAD sen movi commit-ojn
-git reset HEAD~1 # nuligi lastan commit (LOKA)
-git revert HEAD # krei nova commit kiu nuligas HEAD
+git branch -f {branch/HEAD_to_move} {destination} # movas ref sen movi commit-ojn
+git reset HEAD~1     # nuligi lastan commit (loka)
+git revert HEAD       # krei novan commit kiu nuligas HEAD
 ```
 
 ### `git restore`
 
 ```bash
-git restore --source main resources/ # `restaŭri dosieron inter branĉoj`
+git restore --source main resources/ # restaŭri dosieron el alia branĉo
 ```
 
 ### `git cherry-pick`
@@ -76,23 +102,25 @@ git commit --amend
 ### `git tag`
 
 ```bash
-git tag {tag_name} {target_commit : default HEAD}
+git tag {tag_name} {commit : default HEAD}
 git describe {commit}
 ```
 
 ### `git stash`
 
 ```bash
-git stash push -m "mesaĝo" # -k nur sekvitaj -u inkluzivi untracked
+git stash push -m "mesaĝo"   # -k nur tracked; -u inkluzivas untracked
 git stash list
 git stash show -p stash@{0}
 git stash pop stash@{0}
-git stash apply stash@{0} # ne forigas stash
+git stash apply stash@{0}    # ne forigas stash
 git stash drop stash@{0}
-git stash clear # DANGEROZA
+git stash clear               # danĝera
 ```
 
-## Kunlaboro en linio
+---
+
+## 2. Kunlaboro en linio
 
 ### `git clone`
 
@@ -103,22 +131,23 @@ git clone --single-branch --branch <branĉo> <url>
 
 ### `.gitignore`
 
-- Placiĝu en radiko de deponejo.
-  ```text
-  passwords.txt
-  *.txt
-  ```
+Placiĝu en radiko de deponejo:
+
+```text
+passwords.txt
+*.txt
+```
 
 ### Bazaj ordonoj
 
 ```bash
 rm -rf .git
 git init
-git status # -s por mallonga
+git status        # -s por mallonga
 git add .
 git add <file>
-git diff # --staged por staged diff
-git commit -m "mesaĝo" -a # -a = add automata
+git diff          # --staged por staged diff
+git commit -m "mesaĝo" -a   # -a = aŭtomata add
 ```
 
 ### Rollback specife
@@ -132,7 +161,7 @@ git reset --soft HEAD~1
 ```bash
 git remote add origin {URL}
 git branch -M main
-git pull origin main # = fetch + merge
+git pull origin main          # fetch + merge
 git push -u origin main --force-with-lease
 git push --set-upstream origin bugfix1
 ```
@@ -144,9 +173,11 @@ git fetch origin
 git reset --hard origin/main
 ```
 
-## Submodules kaj Subtrees
+---
 
-### `git submodule add/update`
+## 3. Submodules kaj Subtrees
+
+### `git submodule`
 
 ```bash
 git submodule add -b main https://github.com/orga/projet-externe.git path/to/submodule
@@ -154,9 +185,14 @@ git submodule update --init --recursive
 git submodule update --remote --merge
 ```
 
-Poste: `cd path/to/submodule` -> fetch/pull -> reveni al parent -> `git add path/to/submodule` + commit
+Poste:
 
-#### `git submodule deinit` (Forigi submodule)
+1. `cd path/to/submodule`
+2. `git fetch` / `git pull`
+3. Reveni al parent
+4. `git add path/to/submodule` + commit
+
+#### Forigi submodule
 
 ```bash
 git submodule deinit -f path/to/submodule
@@ -175,30 +211,36 @@ git subtree pull --prefix=path/to/subtree {projet-externe} main --squash
 git subtree push --prefix=path/to/subtree {projet-externe} main
 ```
 
-## Problemoj oftaj
+---
 
-- `reveal.js/reveal.js` — atentu duoblan nomadon en subdosieroj
-- `.git` en subdosieroj: prefere `subtree` aŭ forigi `.git`
-- `pdf`/`toml` ofte ekzkludataj: uzi `git add -f` por devigi
+## 4. Problemoj oftaj
+
+- duobla nomado en subdosieroj (`reveal.js/reveal.js`)
+- `.git` en subdosieroj → uzu `subtree` aŭ forigu `.git`
+- `pdf`/`toml` ofte ekskludataj → `git add -f`
 
 ### `Please enter a commit message` (editor)
 
-- Uzu sagetojn por navigi
-- `o` por enmeti linion
-- tiam `esc` + `:wq` por savi kaj eliri.
+- sagetoj por navigi  
+- `o` por enmeti linion  
+- `esc` + `:wq` por savi kaj eliri  
 
-## Github / Gitlab
+---
 
-- uzu oficialajn etendaĵojn por VSCode por Gitlab/Github
-- Github CLI
+## 5. Github / Gitlab
+
+- uzu oficialajn VSCode-etendaĵojn
+- Github CLI:
+
   ```bash
   gh auth login
   gh auth status
   gh repo create
   ```
 
+---
 
-## Diagnostiko
+## 6. Diagnostiko
 
 ```bash
 git fsck --full
