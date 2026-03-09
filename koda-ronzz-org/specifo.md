@@ -21,7 +21,7 @@ su - ghost-admin
 
 cd /var/www/koda-ronzz-org
 
-copilot --banner
+copilot --banner --allow-all-tools
 ```
 
 ### Temo
