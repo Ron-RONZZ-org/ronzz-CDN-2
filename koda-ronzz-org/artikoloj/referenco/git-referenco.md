@@ -76,6 +76,8 @@ git branch -d {branch_name} # forigi lokan jam kunfanditan
 git push origin --delete init # forigi mallokan referencon
 
 git rebase {target_parent_branch} # -i por interaktiva
+
+git add . && git commit -m "$m" && git pull && git push && git status
 ```
 
 ### `git rollback`
