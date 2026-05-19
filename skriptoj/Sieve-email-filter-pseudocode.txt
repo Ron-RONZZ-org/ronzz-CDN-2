@@ -1,0 +1,11 @@
+IF subject CONTAINS 'reçu|receipt|facture|bill':
+  FORWARD to finance@ronzz.org
+  MOVETO deleted
+ELIF sender CONTAINS 'noreply|ne-pas-repondre|notification|donotreply'
+  MOVETO notifications
+ELIF sender CONTAINS '@*univ|@*.edu'
+  MOVETO uni_stuff
+ELIF sender is METZ A VELO <app@email-assoconnect.com>
+  MOVETO Metz-a-velo
+
+
